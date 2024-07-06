@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 12 14:00:13 2020
-
-@author: Miguel Rizzo
-"""
-
 ##single server 
 
 #Importing Libraries
